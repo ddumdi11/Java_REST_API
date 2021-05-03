@@ -14,3 +14,14 @@ Den letzten Teil des Tutorials musste ich deshalb überspringen.
 
 Ergänzung/Erweiterung:
 https://alvinalexander.com/java/joptionpane-showmessagedialog-example-scrolling/
+
+Bei dem Fehler "master - rejected, non fast forward":
+"Erst pullen, dann pushen. Wenn bereits lokale Änderungen vorliegen,
+ musst du diese stashen, bevor du pullen kannst.
+Weil beim Zusammenbringen der Inhalte beider Seiten Konflikte auftreten können
+ und die kann der Server ja schlecht alleine auflösen.
+ Daher musst du das bei dir lokal tun (mergen) um danach eine korrekte,
+  vereinigte Version pushen zu können."
+https://www.computerbase.de/forum/threads/git-eclipse-und-github-rejected-non-fast-forward.1637250/
+
+Auch muss die Historie (u.a. die Reihenfolge der Commits), die bereits auf dem Server gelandet ist (kann ja mehrere Leute geben, die daran arbeiten), weiterhin bestehen bleiben. Sonst haben die Leute mit ihren ausgecheckten Ständen ein Problem. Es gibt den Parameter --force für push, um das Problem zu ignorieren. Davon rate ich aber dringend ab, wenn du nicht weißt, was du tust.
