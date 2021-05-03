@@ -1,0 +1,16 @@
+Projektstart:
+11.04.2021
+
+Projektaktualisierung:
+03.05.2021
+
+Tutorial:
+https://rapidapi.com/blog/how-to-use-an-api-with-java/
+
+Leider hat die API "Meme Generator" ein sog. Freemium-Preismodell,
+es lässt sich nur bei Hinterlegung einer Kreditkarte nutzen.
+Den letzten Teil des Tutorials musste ich deshalb überspringen.
+
+
+Ergänzung/Erweiterung:
+https://alvinalexander.com/java/joptionpane-showmessagedialog-example-scrolling/
